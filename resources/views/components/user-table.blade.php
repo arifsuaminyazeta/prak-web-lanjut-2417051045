@@ -1,4 +1,4 @@
-<!-- @props(['users'])
+@props(['users'])
 
 <table class="table table-bordered table-striped">
     <thead>
@@ -24,4 +24,4 @@
         </tr>
         @endforeach
     </tbody>
-</table> -->
+</table>

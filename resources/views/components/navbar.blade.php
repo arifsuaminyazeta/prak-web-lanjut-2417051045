@@ -1,4 +1,4 @@
-<!-- <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+<nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
     <div class="container">
         <a class="navbar-brand" href="{{ route('user.index') }}">Aplikasi Web</a>
         <div class="collapse navbar-collapse" id="navbarNav">
@@ -12,4 +12,4 @@
             </ul>
         </div>
     </div>
-</nav> -->
+</nav>
